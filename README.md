@@ -1,0 +1,2 @@
+# MultiColumnLabelClassification
+For categorical Data, Encoding data is important step, as various Machine Learning models will not work for textual data. So in existing encoding methods, which are already available, After transforming data and encoding it, I found Inverse Transforming it is too hard when Multiple columns are encoded. So I built this small model, to help myself when I am encoding  data in Python. 
